@@ -136,4 +136,9 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
-notebooks/introduction_to_tensorflow/labs
+notebooks/introduction_to_tensorflow/labs/export/
+notebooks/introduction_to_tensorflow/labs/model.png
+notebooks/introduction_to_tensorflow/labs/taxi_trained/
+notebooks/building_production_ml_systems/labs/taxifare-model/
+notebooks/building_production_ml_systems/labs/taxifare/Dockerfile
+notebooks/building_production_ml_systems/labs/taxifare/setup.py
